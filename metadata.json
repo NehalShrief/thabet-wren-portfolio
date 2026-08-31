@@ -1,0 +1,6 @@
+{
+  "name": "THABET — The Wren Chair Design Portfolio",
+  "description": "An interactive industrial design portfolio detailing the genesis, ergonomics, technical orthographics, and exploded assembly layers of the Wren Chair (Thabet).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
